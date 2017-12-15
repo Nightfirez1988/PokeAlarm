@@ -1,8 +1,8 @@
 [
   {
-    "active": "False",
+    "active": "True",
     "type": "discord",
-    "webhook_url": "YOUR_WEBHOOK_URL"
+    "webhook_url": "https://discordapp.com/api/webhooks/391163120799842304/7Tl-c_i-5YPkMKgTYYAJy3rK8dqJ9VIHzEjvA9f-My5HKoyeHdB0ds7xQkV-yslQ8aFi/github"
   },
   {
     "active": "False",
